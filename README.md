@@ -1,5 +1,5 @@
 # Set up
 
-* `pip install dbt-core dbt-duckdb duckdb`
+* `uv sync`
 * `dbt seed`
 * `dbt run`
